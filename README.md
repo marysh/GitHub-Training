@@ -4,10 +4,11 @@ GitHub Training exercises for GMBU PS.
 ##Git Init Challenge  
 > If this is your first experience with git, this challenge should take approximately 2-3 hours to complete.
 
-Prerequisite
+###Prerequisites
 + Create a Github username formatted as Blackbaud-FirstnameLastname
 + [Setup Git](https://help.github.com/articles/set-up-git/)
 
+###Steps
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository
 2. Clone your fork to your computer.
 3. Add your name to Master-List.md
